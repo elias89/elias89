@@ -35,5 +35,7 @@ Since you have took some time to read this, I want to give you some tips you mig
 - [Brave](https://brave.com/): A secure and private browser.
 - [VSCodium](https://vscodium.com/): If you don't want to be tracked by Mi---soft and all their telemetry layer and if you respect your own privacy you can use VSCodium which is the project in which VSCode is based on and is open source & free.
 - [VIM](https://www.vim.org/): You can use VIM as well as code edditor or at least as the default terminal text edditor.
-- [ZSH](https://www.zsh.org/): Bring some great features to your terminal. Then you check [ohmyz](https://ohmyz.sh/)
+- [ZSH](https://www.zsh.org/): Bring some great features to your terminal. Then you can check [ohmyz](https://ohmyz.sh/)
 - [Tmux](https://github.com/tmux/tmux/wiki): If you really use your terminal, multiplex it using Tmux.
+
+🥃
