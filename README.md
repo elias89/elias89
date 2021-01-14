@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software developer mostly focused on Front-end technologies like Angular and Vue I also code in the back-end side using Python. I'm currently working for _Overactive_ and in some personal projects. Before that I worked for _Envada_ and _Globant_. I have 10+ years of experience in software development. 
+I'm a software developer mostly focused on Front-end technologies like Angular and Vue, also some stuff in the BE with Node and Python. I'm currently working for _Overactive_ and in some personal projects. Before that I worked for _Envada_ and _Globant_. I have 10+ years of experience in software development. 
 
 Some information about me that you might be intested in:
 ```
@@ -25,6 +25,7 @@ Some information about me that you might be intested in:
 ├── Back-end
 │   ├── PHP
 │   ├── Python
+│   ├── Node
 │   └── SQL
 └── OS
     └── Linux💛
