@@ -36,7 +36,7 @@ Some information about me:
 - Open source technologies.
 - Auto-pilot.
 - Less virtual meetings (Think about it, more than half the ones you're having aren't probably needed). 
-- Less people.
+- [Less people](posts/less-people.md)
 - Create your environment.
 - Privacy.
 - Less social media.
