@@ -2,7 +2,7 @@
 
 I'm a software developer mostly focused on Front-end technologies like Angular and Vue, also some stuff in the BE with Node and Python. I'm currently working for _Overactive_ and in some personal projects. Before that I worked for _Envada_ and _Globant_. I have 10+ years of experience in software development. 
 
-Some information about me that you might be intested in:
+Some information about me:
 ```
  ~/Projects/personal/elias89 ············································································ 23:30:13
 ❯ tree
@@ -30,6 +30,18 @@ Some information about me that you might be intested in:
 └── OS
     └── Linux💛
 ```
+
+### Things I feel are right (I'll be writting short articles about them soon):
+
+- Open source technologies.
+- Auto-pilot.
+- Less virtual meetings (Think about it, more than half the ones you're having aren't probably needed). 
+- Less people.
+- Create your environment.
+- Privacy.
+- Less social media.
+- User interfaces.
+- Be technologically organic.
 
 Since you have took some time to read this, I want to give you some tips you might like:
 
