@@ -1,37 +1,33 @@
 ### Hi there 👋
 
-I'm a software developer mostly focused on Front-end technologies like Angular and Vue, also some stuff in the BE with Node and Python. I'm currently working for _Overactive_ and in some personal projects. Before that I worked for _Envada_ and _Globant_. I have 10+ years of experience in software development. 
+I’m a Software designer mostly focused on Front-end technologies like Angular and Svelte, Back-end with Node, Python and MySql. Currently working at _Overactive_ and a few personal projects. Before that I worked for _Envada_ and _Globant_. 10+ years of experience in software development. 
 
 Some information about me:
 ```
- ~/Projects/personal/elias89 ············································································ 23:30:13
+ ~/Projects/personal/elias89 ············································································ Oct 22, 2021 - 19:30:00
 ❯ tree
 .
 ├── Front-end
+│   ├── Angular
+│   ├── Svelte
 │   ├── ES6
 │   ├── Typescript
 │   ├── RxJS
-│   ├── Node
-│   ├── Frameworks
-│   │   ├── Angular
-│   │   └── Vue
-│   ├── UI
-│   │   ├── Material
-│   │   └── Sass
-│   └── Misc
-│       ├── Ag-grid
-│       ├── Google-maps-api
-│       └── Linkedin-api
+│   ├── Material design
+│   ├── Jasmine
+│   ├── Jest
+│   └── Cypress
+│
 ├── Back-end
+│   ├── Node
 │   ├── PHP
 │   ├── Python
-│   ├── Node
-│   └── SQL
+│   └── MySql
 └── OS
     └── Linux💛
 ```
 
-### Things I feel are right (I'll be writting short articles about them soon):
+### I'm writting short articles about (Comming soon):
 
 - Open source technologies.
 - Auto-pilot.
