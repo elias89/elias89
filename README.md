@@ -40,8 +40,7 @@ Some information about me:
 - Create your environment.
 - Privacy.
 - Less social media.
-- User interfaces.
-- Be technologically organic.
+- [User interfaces](posts/user-interfaces.md)
 
 Since you have took some time to read this, I want to give you some tips you might like:
 
