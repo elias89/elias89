@@ -6,8 +6,7 @@ A huge popup asking you to accept cookies is a person shouting in your face. Con
 
 "Form follows function" should be the spirit of every person that designs something. No matter what it is, can be a wheel, a login form, a chair, a car, a keyboard, a bottle, everything must to be shaped by the reason it functions, otherwise it should not exist. We are surrounded by objects with functions and shapes, every single thing was thought as a solution for something but just a very few solves the problem in a decent way.
 
-The design of a physical button that people needs to press should start by how if feels to press it, the distance the button will do from on and off, the right amount of pressure people will need to do, the sound it'll release when pressing, the size it'll have for people to point it, the material the people will touch and feel and finally the right color/s
-you'll make it, all these aspects will stimulate people and generates attraction.
+The design of a physical button that people needs to press should start by how if feels to press it, the distance the button will do from on and off, the right amount of pressure people will need to do, the sound it'll release when pressing, the size it'll have for people to point it, the material the people will touch and feel and finally the right color/s you'll make it, all these aspects will stimulate people and generates attraction.
 
 If you put a simple object in an empty room it will shine. If the room is full of objects it'll loose focus, the more things you have in the same space the less attractive those things will look. Make sure you give enough space for your things to show and behave. No matter if it's a frame in a wall, a button on a website, an indicator in a board, a sentence in a product label, always leave enough space for things exist. Emptiness is just beautiful on itself.
 
