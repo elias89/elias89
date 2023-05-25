@@ -53,13 +53,22 @@ Some tools I use every day and you might like:
 - [Tmux](https://github.com/tmux/tmux/wiki): If you really use your terminal, multiplex it using Tmux.
 
 #### Inspiration
-I find these guys pretty inspirational, here you have some talks:
+I find these people pretty inspirational, here you have:
 
-- [Rich Harris](https://github.com/Rich-Harris): Creator of SvelteJs
+- [Adam Savage] Maker
+  -  [Savage Industries](https://adamsavage.com/)
+  -  [Adam's Youtube channel](https://www.youtube.com/results?search_query=adam+savage)
+  -  [Every Tool's a Hammer: Life Is What You Make It](https://www.amazon.com/gp/product/1982113480)
+
+- [Adrian Newey] F1 Engineer & designer
+  - [How to build a car](https://www.amazon.com/-/es/Adrian-Newey-ebook/dp/B073TS2ZWN)
+ 
+- [Rich Harris](https://github.com/Rich-Harris) Creator of SvelteJs
   - [Rethinking reactivity 2019](https://www.youtube.com/watch?v=OyFI-zOrKSk)
   - [The return of write less, do more](https://www.youtube.com/watch?v=BzX4aTRPzno&t=1260s&ab_channel=JScamp)
 
-- [Greg Kroah-Hartman](https://github.com/gregkh): Main Linux Kernel maintainer
+- [Greg Kroah-Hartman](https://github.com/gregkh) Main Linux Kernel maintainer
   - [Linux Kernel Development - Git Merge 2016](https://www.youtube.com/watch?v=vyenmLqJQjs&t=1499s&ab_chann`el=GitHub)
   - [Spectre, Meltdown and Linux](https://www.youtube.com/watch?v=lQZzm9z8g_U&ab_channel=TheLinuxFoundation)
+
 🥃
