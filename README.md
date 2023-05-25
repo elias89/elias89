@@ -55,12 +55,12 @@ Some tools I use every day and you might like:
 #### Inspiration
 I find these people pretty inspirational, here you have:
 
-- [Adam Savage] Maker
+- [Adam Savage](https://en.wikipedia.org/wiki/Adam_Savage) Maker
   -  [Savage Industries](https://adamsavage.com/)
   -  [Adam's Youtube channel](https://www.youtube.com/results?search_query=adam+savage)
   -  [Every Tool's a Hammer: Life Is What You Make It](https://www.amazon.com/gp/product/1982113480)
 
-- [Adrian Newey] F1 Engineer & designer
+- [Adrian Newey](https://en.wikipedia.org/wiki/Adrian_Newey) F1 Engineer & Designer
   - [How to build a car](https://www.amazon.com/-/es/Adrian-Newey-ebook/dp/B073TS2ZWN)
  
 - [Rich Harris](https://github.com/Rich-Harris) Creator of SvelteJs
