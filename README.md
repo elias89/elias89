@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I started working in the software industry when I was 16 years old, an age at which you don't suppose to work since it's also illegal but I found my way to join a local publicity studio from a member of a friend's family, at the same time I was studying in high school. I created their website and then started designing their client's corporate websites, of course, the clients never knew the person behind it was me at 16 years old. It was funny and productive since I could focus on doing things without having to interact with clients since at that time obviously, I didn't even know how to do it. In those days I learned Front-end, Back-end, and the basics of server configurations since I got to do everything, also the UI design. 
+I started working in the software industry when I was 16 years old, I found my way to join a local publicity studio from a member of a friend's family, at the same time I was studying in high school. I created their website and then started designing their client's corporate websites, of course, the clients never knew the person behind it was me at 16 years old. It was funny and productive since I could focus on doing things without having to interact with clients since at that time obviously, I didn't even know how to do it. In those days I learned Front-end, Back-end, and the basics of server configurations since I got to do everything, also the UI design. 
 
 I’m a Software designer mostly focused on Front-end technologies like Angular and Svelte, Back-end with Node, Python, and MySql. Currently working in _FundRE_ and a few personal projects. Before that, I worked for _Perficient_, _Envada_, and _Globant_. 10+ years of experience in software development. 
 
@@ -33,9 +33,7 @@ Some tech information about me:
 My of point of view about (Missing ones coming soon):
 
 - Open source technologies.
-- Auto-pilot.
 - [Less people](posts/less-people.md)
-- Create your environment.
 - Privacy.
 - Less social media.
 - [User interfaces](posts/user-interfaces.md)
