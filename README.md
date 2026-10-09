@@ -58,12 +58,12 @@ I find these people pretty inspirational, developers, car designers, makers, her
   -  [Every Tool's a Hammer: Life Is What You Make It](https://www.amazon.com/gp/product/1982113480)
 
 - [Adrian Newey](https://en.wikipedia.org/wiki/Adrian_Newey) F1 Racing cars designer
-  - [How to build a car](https://www.amazon.com/-/es/Adrian-Newey-ebook/dp/B073TS2ZWN)
+  -  [How to build a car](https://www.amazon.com/-/es/Adrian-Newey-ebook/dp/B073TS2ZWN)
 
 - [Oreste berta](https://en.wikipedia.org/wiki/Oreste_Berta) Argentinian Racing cars designer
- - [Motores autos y sueños](https://eudeba.com.ar/productos/motores-autos-y-suenos/)
+  -  [Motores autos y sueños](https://eudeba.com.ar/productos/motores-autos-y-suenos/)
 
 - [Tulio Crespi](https://tuliocrespi.com/) Argentinian Racing cars designer
-  - [Formula crespi](https://lenguajeclaro.com/producto/formula-crespi/)
+  -  [Formula crespi](https://lenguajeclaro.com/producto/formula-crespi/)
 
 🥃
